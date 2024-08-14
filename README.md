@@ -1,3 +1,5 @@
+# Encabezado 1
+
 <header>
 
 <!--
@@ -13,6 +15,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
 
 </header>
 
+## Encabezado 2
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
